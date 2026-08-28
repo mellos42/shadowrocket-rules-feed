@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "version": "V2.0.1",
+  "released_at": "2026-08-28T13:07:38.086572+08:00",
+  "review_id": "R-20260827-4ed6c7811855",
+  "review_digest": "a8763170e12099f936a06d33036303ef9d9818e27ab27caa640595aeb9f75922",
+  "public_config_sha256": "4b5e7fa3ae13ce0be078fd6a464793876d83955ca6de0a976705c3153a0d146b",
+  "files": {
+    "current.conf": "4b5e7fa3ae13ce0be078fd6a464793876d83955ca6de0a976705c3153a0d146b",
+    "releases/Codex-v2.0.1.conf": "4b5e7fa3ae13ce0be078fd6a464793876d83955ca6de0a976705c3153a0d146b"
+  }
+}
