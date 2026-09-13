@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "version": "V2.0.4",
-  "released_at": "2026-09-06T21:33:11.640763+08:00",
-  "review_id": "R-20260906-vidhub-direct",
-  "review_digest": "4fa900eaea4b344799e3d4129df32bf6c94e4807a8d6cc8fbe09ba7a616a4f7e",
-  "public_config_sha256": "4c46fe2d9c9cb63f8d35751f51f3d72ff402b9f193fdd09f0353e337bc2bc253",
+  "version": "V2.0.5",
+  "released_at": "2026-09-13T14:32:33.951072+08:00",
+  "review_id": "R-20260912-8e5ff3d1905b",
+  "review_digest": "bfa309ea1455a2cb93e5c4bfa2202895e7c4b0d568c88f6f7f1cec54a18076f2",
+  "public_config_sha256": "763b8d28eb3dcd9c41bdca6195dfd7bdcb5eeebd7817ad223eb7c258dc92af3f",
   "files": {
-    "current.conf": "4c46fe2d9c9cb63f8d35751f51f3d72ff402b9f193fdd09f0353e337bc2bc253",
-    "releases/Codex-v2.0.4.conf": "4c46fe2d9c9cb63f8d35751f51f3d72ff402b9f193fdd09f0353e337bc2bc253"
+    "current.conf": "763b8d28eb3dcd9c41bdca6195dfd7bdcb5eeebd7817ad223eb7c258dc92af3f",
+    "releases/Codex-v2.0.5.conf": "763b8d28eb3dcd9c41bdca6195dfd7bdcb5eeebd7817ad223eb7c258dc92af3f"
   }
 }
