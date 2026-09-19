@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "version": "V2.0.5",
-  "released_at": "2026-09-13T14:32:33.951072+08:00",
-  "review_id": "R-20260912-8e5ff3d1905b",
-  "review_digest": "bfa309ea1455a2cb93e5c4bfa2202895e7c4b0d568c88f6f7f1cec54a18076f2",
-  "public_config_sha256": "763b8d28eb3dcd9c41bdca6195dfd7bdcb5eeebd7817ad223eb7c258dc92af3f",
+  "version": "V2.0.6",
+  "released_at": "2026-09-19T10:41:56.188492+08:00",
+  "review_id": "R-20260919-bank-direct",
+  "review_digest": "aaa061a56f0e769d314a39abc3738d972b4214800ba457149e44908e0c8ab446",
+  "public_config_sha256": "15d9d068031e2baef54d4bc43c70f62c0f54cb737bda6c44b213bb786cbd8139",
   "files": {
-    "current.conf": "763b8d28eb3dcd9c41bdca6195dfd7bdcb5eeebd7817ad223eb7c258dc92af3f",
-    "releases/Codex-v2.0.5.conf": "763b8d28eb3dcd9c41bdca6195dfd7bdcb5eeebd7817ad223eb7c258dc92af3f"
+    "current.conf": "15d9d068031e2baef54d4bc43c70f62c0f54cb737bda6c44b213bb786cbd8139",
+    "releases/Codex-v2.0.6.conf": "15d9d068031e2baef54d4bc43c70f62c0f54cb737bda6c44b213bb786cbd8139"
   }
 }
