@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "version": "V2.2.6",
-  "released_at": "2026-10-08T08:55:11.866966+08:00",
-  "review_id": "R-20261007-d58e71e7bdf8",
-  "review_digest": "83d3c3b5e1cca6bf52a44cc6c959ac45b9a48d4089e96a1f002a69d493e3d2de",
-  "public_config_sha256": "a817b29e2080b38c663ff6c7e35bda7cf5dd8ba733194ba93555b9ffb3bce600",
+  "version": "V2.2.7",
+  "released_at": "2026-10-09T07:41:47.486683+08:00",
+  "review_id": "R-20261008-6afc790b9e93",
+  "review_digest": "967195eb6cb4b9b3858bac5f2306e84a9e3d4f08823b2fe800cc0819ec72282d",
+  "public_config_sha256": "82258fbecd5ada0d52eb75f2cb48a8031cd645c040ece671f1194b11b8c796a5",
   "files": {
-    "current.conf": "a817b29e2080b38c663ff6c7e35bda7cf5dd8ba733194ba93555b9ffb3bce600",
-    "releases/Codex-v2.2.6.conf": "a817b29e2080b38c663ff6c7e35bda7cf5dd8ba733194ba93555b9ffb3bce600"
+    "current.conf": "82258fbecd5ada0d52eb75f2cb48a8031cd645c040ece671f1194b11b8c796a5",
+    "releases/Codex-v2.2.7.conf": "82258fbecd5ada0d52eb75f2cb48a8031cd645c040ece671f1194b11b8c796a5"
   }
 }
